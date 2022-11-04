@@ -5,7 +5,7 @@ const Schema = mongoose.Schema
 let Artist = new Schema({
   name: String,
   artistImg: String,
-  genre: [String],
+  genre: ["String"],
   albums: [{Album}]
 })
 

@@ -1,16 +1,24 @@
 [
  { 
-  "name": "String",
+  "name": "The Gaslight Anthem",
   "artistImg": "String",
-  "genre": "[String]",
+  "genre": ["Rock","Alternative", "Punk"],
   "albums": [
     {
-    "title": "String",
-    "albumCover": "String",
-    "songs": "[String]",
-    "year": "Number",
+    "title": "Get Hurt (deluxe Version)",
+    "albumCover": "https://musicnerd.ca/wp-content/uploads/2014/08/The-Gaslight-Anthem.jpg",
+    "songs": ["Stay Vicious", "1,000 Years","Get Hurt","Stray Paper", "Helter Skeleton", "Underneath the Ground", "Rollin' and Tumblin'","Red Violins","Selected Poems","Selected Poems", "Ain't That a Shame","Break Your Heart","Dark Place","Sweet Morphine","Mama's Boys","Halloween", "Have Mercy"],
+    "year": 2014,
+    "top100": "Boolean"
+  },
+  {
+    "title": "The B-Sides",
+    "albumCover": "https://images-na.ssl-images-amazon.com/images/I/51Eyire9SML.jpg",
+    "songs": ["She Loves You","The '59 Sound(Acoustic)","State of Love and Trust(Live)", "Tumbling Dice","The Queen of Lower Chelsea (Acoustic)","Songs for Teenagers", "Great Expectations(Acoustic)","Antonia Jane (Acoustic)", "American Slang (Acoustic)", "Boxer (Acoustic)", "Once Upon a Time"],
+    "year": 2014,
     "top100": "Boolean"
   }
 ]
-}
+ }
 ]
+
