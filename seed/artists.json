@@ -1,64 +1,96 @@
 [
  { 
+  "_id": "",
   "name": "The Gaslight Anthem",
   "artistImg": "https://www.godisinthetvzine.co.uk/wp-content/uploads/2012/07/Gaslight-Anthem.jpg",
   "genre": ["Rock","Alternative", "Punk"],
   "albums": []
 },
  {
+  "_id": "",
   "name":"BTS",
-  "artist img":"https://img.playbuzz.com/image/upload/ar_1.5,c_pad,f_jpg,b_auto/cdn/4b9e997d-c375-4801-8794-d0891147c69c/08eb1c61-b91a-4e0c-8c04-43de51b77dbc.jpg",
+  "artistImg":"https://img.playbuzz.com/image/upload/ar_1.5,c_pad,f_jpg,b_auto/cdn/4b9e997d-c375-4801-8794-d0891147c69c/08eb1c61-b91a-4e0c-8c04-43de51b77dbc.jpg",
   "genre": ["K-Pop"],
-  "albums":[]
+  "albums": []
  },
  {
+  "_id": "",
   "name":"Little Mix",
-  "artist img":"https://wallsdesk.com/wp-content/uploads/2016/11/little-mix-Photos.jpg",
+  "artistImg":"https://wallsdesk.com/wp-content/uploads/2016/11/little-mix-Photos.jpg",
   "genre": ["Pop"],
-  "albums":[]
+  "albums": []
  },
  {
+  "_id": "",
   "name":"Emily King",
-  "artist img":"https://s3.amazonaws.com/media.thecrimson.com/photos/2020/03/27/012708_1343612.png",
+  "artistImg":"https://s3.amazonaws.com/media.thecrimson.com/photos/2020/03/27/012708_1343612.png",
   "genre":["R&B","Soul"],
-  "albums":[""]
+  "albums": []
  },
  {
+  "_id": "",
   "name":"Bad Brains",
-  "artist img":"https://i.discogs.com/ELWDsd3hr33Q7rt9Komhjx4R838fFcCXJ2-a5GhUUYY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA3/Ni0xMzc4NTI3NDIz/LTQ1MTEuanBlZw.jpeg",
+  "artistImg":"https://i.discogs.com/ELWDsd3hr33Q7rt9Komhjx4R838fFcCXJ2-a5GhUUYY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA3/Ni0xMzc4NTI3NDIz/LTQ1MTEuanBlZw.jpeg",
   "genre":["Punk rock", "Hardcore punk","Heavy metal","Reggae"],
-  "albums":[""]
+  "albums": []
  },
  {
+  "_id": "",
   "name":"Robert Glasper",
-  "artist img":"http://www.brooklynvegan.com/files/2018/10/robert-glasper.jpg",
+  "artistImg":"http://www.brooklynvegan.com/files/2018/10/robert-glasper.jpg",
   "genre":["R&B","Soul"],
-  "albums":[""]
+  "albums": []
  },
  {
+  "_id": "",
   "name":"Rina Sawayama",
-  "artist img":"https://tse1.mm.bing.net/th?id=OIP.K4DNhOwKOx8_GH2GmNmxeAHaHa&pid=Api&P=0",
+  "artistImg":"https://tse1.mm.bing.net/th?id=OIP.K4DNhOwKOx8_GH2GmNmxeAHaHa&pid=Api&P=0",
   "genre":["Pop"],
-  "albums":[""]
+  "albums": []
  },
  {
+  "_id": "",
   "name":"K/DA",
-  "artist img":"https://lh3.googleusercontent.com/X76ESmZOYVjP0WmS3XJUBbNZjszC5Tx0TA6RD-YMvZXua8Us9RxS1E_FgLyzPKuHgDTqAQ5jAe5k03QTKei4xR0s_3RMg6hQlA=w960-rj-nu-e365",
+  "artistImg":"https://lh3.googleusercontent.com/X76ESmZOYVjP0WmS3XJUBbNZjszC5Tx0TA6RD-YMvZXua8Us9RxS1E_FgLyzPKuHgDTqAQ5jAe5k03QTKei4xR0s_3RMg6hQlA=w960-rj-nu-e365",
   "genre":["K-Pop","Electric dance music"],
-  "albums":[""]
+  "albums": []
  },
  {
+  "_id": "",
   "name":"Kneebody",
-  "artist img":"https://tse1.mm.bing.net/th?id=OIP.kCh-3qd7TGu-TaMLm28ubAHaDy&pid=Api&P=0",
+  "artistImg":"https://tse1.mm.bing.net/th?id=OIP.kCh-3qd7TGu-TaMLm28ubAHaDy&pid=Api&P=0",
   "genre":["Jazz"],
-  "albums":[""]
+  "albums": []
  },
  {
-  "name":"",
-  "artist img":"",
-  "genre":[""],
-  "albums":[""]
- }
+  "_id": "",
+  "name":"Tems",
+  "artistImg":"https://assets.audiomack.com/_am-blog/2021/02/Interview-photos-4x5-tems-5.jpg",
+  "genre":["Alternative R&B","Alté"],
+  "albums": []
+ },
+ {
+  "_id": "",
+  "name":"Tiwa Savage",
+  "artistImg":"https://www.davinciblog.ng/wp-content/uploads/2019/10/Tiwa-Savage.jpeg",
+  "genre":["Afrobeats","Pop","Contemporary R&B"],
+  "albums": []
+ },
+ {
+  "_id": "",
+  "name":"Spice",
+  "artistImg":"https://www.dancehallmag.com/assets/2021/04/spice2.jpg",
+  "genre":["Dancehall","Reggae"],
+  "albums": []
+ },
+ {
+  "_id": "",
+  "name":"Koffee",
+  "artistImg":"https://cdn.website-editor.net/b3297353e6274419915b97c94ab92c71/dms3rep/multi/IMG_7464.jpeg",
+  "genre":["Pop","Af"],
+  "albums": []
+ },
+ 
 ]
 
 
